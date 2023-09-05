@@ -1,6 +1,6 @@
 ### You are implementing a sample TODO's app. Your graphql-fetch SDK is not released yet, so it's accessible only locally.
 
-1. Under ./graphql-fetch folder initialize a typescript based sdk:
+1. Under ./graphql-fetch folder initialize a typescript based sdk, initialize npm library:
     * Implement a function called `graphqlFetch` - executes graphql call using native "fetch" function. The function accepts endpoint, query, variables.
 1. "graphql-fetch" sdk should be transpiled and linked to ./react-app application
 1. "react-app" it's an empty react application scaffolded by using "npx create-react-app"
