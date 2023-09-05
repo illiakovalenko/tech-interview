@@ -6,7 +6,7 @@
 1. "react-app" it's an empty react application scaffolded by using "npx create-react-app"
 1. In the app:
     1. Introduce a GraphQL query to fetch todos.
-    1. Call "graphqlFetch" function from "graphql-fetch" sdk
+    1. Import "graphqlFetch" function from "graphql-fetch" sdk and call
     1. Fetch and render only 6 todos (only titles) by providing pagination option to the query
 
 * The api is: https://graphqlzero.almansi.me/api
